@@ -32,7 +32,7 @@
 - **Have an option to order as many pizzas as I want.**
 - **Have an option to have the pizza delivered or not.**
 
-## LIcense
+## License
 - **MIT LICENSE**
 
 ## Copyright
