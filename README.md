@@ -8,7 +8,7 @@
 ### Wasonga Paul Oketch
 
 ## Installation
-- **git clone https://github.com/kamauvick/Pizza-App.git or download the  zip file.**
+- **git clone https://github.com/wasongapaul5/Brimajopi.git or download the  zip file.**
 
 - **Extract the zip file.**
 
