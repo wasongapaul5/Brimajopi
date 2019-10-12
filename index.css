@@ -4,6 +4,7 @@
     background-size: cover;
 }  
 
+
  img{
     border-radius: 30%;
     height: 200px;
@@ -11,7 +12,7 @@
 }
 
  .page-header{
-    padding:100px;
+    padding:50px;
     color: white;
     text-align: center; 
 }
@@ -24,9 +25,9 @@ h1{
 
 
 .display-1{
-    border-top: 1px solid yellowgreen;
-    border-bottom:1px solid yellowgreen;
-    font-size: 130px;
+    border-top: 2px solid yellowgreen; 
+    border-bottom:2px solid yellowgreen; 
+    font-size: 170px;
     color: yellowgreen;
     text-align: center;
     font-family: 'Pacifico', cursive;
@@ -35,8 +36,16 @@ h1{
 .pacifico{
     padding:30px;
     font-family: 'Gloria Hallelujah', cursive;
+    text-align:center;
+    font-weight: bolder;
     
 }
+
+.more{
+    padding:100px;
+}
+
+
 
 li{
     font-size: 20px;
@@ -66,3 +75,12 @@ h6{
     height:20%;
     opacity:0.7;
 } 
+
+.row{
+    box-shadow:0 16px 10px 0 white;
+    background-color:gray;
+}
+
+p{
+    color:white;
+}
