@@ -1,38 +1,38 @@
 
 
 // $(document).ready(function(){
-//   $(".whatwedo p").hide();
+//   $(".more p").hide();
 
-//   $(".whatwedo img.one").click(function(){
-//     $(".whatwedo p.one").toggle(1200);
-//     $(".whatwedo img.one").toggle(1000);
+//   $(".more img.one").click(function(){
+//     $(".more p.one").toggle(1200);
+//     $(".more img.one").toggle(1000);
 //   });
 
-//   $(".whatwedo p.one").click(function(){
-//     $(".whatwedo img.one").toggle(1200);
-//     $(".whatwedo p.one").toggle(1000);
-//   });
-
-
-//   $(".whatwedo img.two").click(function(){
-//     $(".whatwedo p.two").toggle(1200);
-//     $(".whatwedo img.two").toggle(1000);
-//   });
-
-//   $(".whatwedo p.two").click(function(){
-//     $(".whatwedo img.two").toggle(1200);
-//     $(".whatwedo p.two").toggle(1000);
+//   $(".more p.one").click(function(){
+//     $(".more img.one").toggle(1200);
+//     $(".more p.one").toggle(1000);
 //   });
 
 
-//   $(".whatwedo img.three").click(function(){
-//     $(".whatwedo p.three").toggle(1200);
-//     $(".whatwedo img.three").toggle(1000);
+//   $(".more img.two").click(function(){
+//     $(".more p.two").toggle(1200);
+//     $(".more img.two").toggle(1000);
 //   });
 
-//   $(".whatwedo p.three").click(function(){
-//     $(".whatwedo img.three").toggle(1200);
-//     $(".whatwedo p.three").toggle(1000);
+//   $(".moreo p.two").click(function(){
+//     $(".more img.two").toggle(1200);
+//     $(".more p.two").toggle(1000);
+//   });
+
+
+//   $(".more img.three").click(function(){
+//     $(".more p.three").toggle(1200);
+//     $(".more img.three").toggle(1000);
+//   });
+
+//   $(".more p.three").click(function(){
+//     $(".more img.three").toggle(1200);
+//     $(".more p.three").toggle(1000);
 //   });
   
 
