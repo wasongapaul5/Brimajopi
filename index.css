@@ -1,8 +1,8 @@
-  body{
+  /* body{
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuBd-mISTLqjyMHeUhZigzoeLWOw1nISPP_Zm4GNUUsS95Whz99Q");
     background-repeat: no-repeat;
     background-size: cover;
-}  
+}   */
 
 
  img{
@@ -25,12 +25,13 @@ h1{
 
 
 .display-1{
-    border-top: 2px solid yellowgreen; 
-    border-bottom:2px solid yellowgreen; 
+
     font-size: 170px;
     color: yellowgreen;
     text-align: center;
     font-family: 'Pacifico', cursive;
+    text-decoration:underline ;
+  
 }
 
 .pacifico{
@@ -40,11 +41,6 @@ h1{
     font-weight: bolder;
     
 }
-
-.more{
-    padding:100px;
-}
-
 
 
 li{
@@ -57,11 +53,13 @@ h6{
     text-align: center;
     color:yellowgreen;
     font-weight: bolder;
-    font-size: 130px;
+    font-family: 'Pacifico', cursive;
+    font-size: 100px;
+
 }
 
 .col-md-4{
-    padding: 100px;
+    padding: 0;
     
 }
 
@@ -76,11 +74,34 @@ h6{
     opacity:0.7;
 } 
 
-.row{
-    box-shadow:0 16px 10px 0 white;
-    background-color:gray;
+.one{
+    text-align: center;
 }
 
+
+/* 
+.row{
+    border-radius: 10px;
+} 
+
 p{
-    color:white;
+    color:black;
+    font-weight: bolder;
 }
+
+.one,.two,.three{
+    text-align: center
+} */
+/* 
+.sec-2{
+    /* background-color:#0a18b554; */
+    /* border-radius: 90px;
+    width:90%;
+    padding-left:90px;
+} */ */
+
+.sec-1{
+    border-bottom: 1px solid yellowgreen;
+}
+
+
